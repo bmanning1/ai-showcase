@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ai-showcase/static/css/main.20da1abc.chunk.css",
+    "main.js": "/ai-showcase/static/js/main.e972c7bd.chunk.js",
+    "main.js.map": "/ai-showcase/static/js/main.e972c7bd.chunk.js.map",
+    "runtime-main.js": "/ai-showcase/static/js/runtime-main.fe5ab7dd.js",
+    "runtime-main.js.map": "/ai-showcase/static/js/runtime-main.fe5ab7dd.js.map",
+    "static/js/2.9548764c.chunk.js": "/ai-showcase/static/js/2.9548764c.chunk.js",
+    "static/js/2.9548764c.chunk.js.map": "/ai-showcase/static/js/2.9548764c.chunk.js.map",
+    "index.html": "/ai-showcase/index.html",
+    "precache-manifest.1f58e7f3bf823c7d7a1ffcf896ec3be2.js": "/ai-showcase/precache-manifest.1f58e7f3bf823c7d7a1ffcf896ec3be2.js",
+    "service-worker.js": "/ai-showcase/service-worker.js",
+    "static/css/main.20da1abc.chunk.css.map": "/ai-showcase/static/css/main.20da1abc.chunk.css.map",
+    "static/js/2.9548764c.chunk.js.LICENSE.txt": "/ai-showcase/static/js/2.9548764c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ai-showcase/static/media/DM_TitlePage_2.979f4d70.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe5ab7dd.js",
+    "static/js/2.9548764c.chunk.js",
+    "static/css/main.20da1abc.chunk.css",
+    "static/js/main.e972c7bd.chunk.js"
+  ]
+}
