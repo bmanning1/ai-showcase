@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('./static/DM_TitlePage_2.jpg') bottom right no-repeat #0053d6;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  padding: 1rem 5rem;
+  margin: 0;
 }
 
 code {

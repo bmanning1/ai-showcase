@@ -1,0 +1,32 @@
+/* Instructions */
+.instructions {
+    text-align: center;
+}
+
+/* Dashboard table */
+.comparison-table {
+    font-size: 0.9rem;
+    width: 100%;
+}
+
+.comparison-table td {
+    padding: 0.5rem;  
+    color: #14234b;
+    border-right: black solid 1px;
+}
+
+.comparison-table th {
+    text-align: left;
+    padding: 0 0.5rem 0.5rem;
+    color: #14234b;
+    font-weight: 600;
+    background-color: white;
+}
+
+.comparison-table tr:hover {
+    background-color: #f0ebff;
+}
+
+.higher-score {
+    background-color: #a6ffe0;
+}

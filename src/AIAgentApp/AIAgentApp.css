@@ -1,0 +1,42 @@
+.title {
+  color: white;
+  font-weight: 200;
+}
+
+.navigation li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+.navigation {
+  background-color: #14234b;
+  padding: 0;
+}
+
+.navigation li a {
+  color: #FFF;
+  font-weight: 100;
+  text-decoration: none;
+  padding: 1.4rem;
+  display: inline-block;
+}
+
+.content {
+  background-color: #FFF;
+  padding: 1.5rem;
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.content li {
+  margin-bottom: 0.8rem;
+}
+
+.active {
+  background-color: #ffe6f0;
+  color: #14234b !important;
+}
