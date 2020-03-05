@@ -5,6 +5,6 @@ import AIAgentApp from './AIAgentApp';
 import './index.css';
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <AIAgentApp />
     </BrowserRouter>, document.getElementById('root'));
