@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ai-showcase/static/css/main.20da1abc.chunk.css",
+    "main.css": "/ai-showcase/static/css/main.a58d3f09.chunk.css",
     "main.js": "/ai-showcase/static/js/main.d9522dc9.chunk.js",
     "main.js.map": "/ai-showcase/static/js/main.d9522dc9.chunk.js.map",
     "runtime-main.js": "/ai-showcase/static/js/runtime-main.fe5ab7dd.js",
@@ -8,16 +8,16 @@
     "static/js/2.9548764c.chunk.js": "/ai-showcase/static/js/2.9548764c.chunk.js",
     "static/js/2.9548764c.chunk.js.map": "/ai-showcase/static/js/2.9548764c.chunk.js.map",
     "index.html": "/ai-showcase/index.html",
-    "precache-manifest.47d1d258a38dc47e6066e062be45c35c.js": "/ai-showcase/precache-manifest.47d1d258a38dc47e6066e062be45c35c.js",
+    "precache-manifest.d701abda3837cc5e741bd2e1c74280f4.js": "/ai-showcase/precache-manifest.d701abda3837cc5e741bd2e1c74280f4.js",
     "service-worker.js": "/ai-showcase/service-worker.js",
-    "static/css/main.20da1abc.chunk.css.map": "/ai-showcase/static/css/main.20da1abc.chunk.css.map",
+    "static/css/main.a58d3f09.chunk.css.map": "/ai-showcase/static/css/main.a58d3f09.chunk.css.map",
     "static/js/2.9548764c.chunk.js.LICENSE.txt": "/ai-showcase/static/js/2.9548764c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/ai-showcase/static/media/DM_TitlePage_2.979f4d70.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fe5ab7dd.js",
     "static/js/2.9548764c.chunk.js",
-    "static/css/main.20da1abc.chunk.css",
+    "static/css/main.a58d3f09.chunk.css",
     "static/js/main.d9522dc9.chunk.js"
   ]
 }
